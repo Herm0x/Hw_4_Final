@@ -121,7 +121,7 @@ Bookstore::BooksSold Bookstore::ringUpCustomer( const ShoppingCart & shoppingCar
     const auto & book        = it-> second;
     if(!worldWideBookDatabase.find(currentIsbn))
     {
-      std::cout << currentIsbn << " (" << book.title() << ") is free of charge." << std::endl;
+      std::cout << currentIsbn << " (" << book.title() << ") not found, the book is free!" << std::endl;
     }
     else
     {
