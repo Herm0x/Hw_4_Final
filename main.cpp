@@ -57,7 +57,7 @@ int main()
       /// All the shoppers have now checkout out and it's late in the day.  Close your store, take inventory, and if you sold enough
       /// books to fall below your re-order threshold, order more by using your store's reorderItems function passing the
       /// collection of books sold.
-    std::cout << "nnn";
+    //std::cout << "";
 
     bookstore.reorderItems(itemsSold);
     /////////////////////// END-TO-DO (5) ////////////////////////////

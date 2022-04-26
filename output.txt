@@ -1,9 +1,9 @@
-Charlie Brown's shopping cart:
+Charlie Brown's shopping cart contains:
 "9789998852051",  "From the Coal Mines and Ellis Island to the Asbestos Capital of the World (1st edition)",  "Purzycki",  42.68
 -------------------------
 Total amount due: $42.68
 
-Lucy van Pelt's shopping cart:
+Lucy van Pelt's shopping cart contains:
 "9789999275842",  "Billboard Music Week (1st edition)",  "Joel Whitburn",  107.41
 "9789999638722",  "The Twelve Crimes of Christmas (Reissue edition)",  "Carol-Lynn Rossel Waugh",  32.44
 "9789999689182",  "A Sacred Deposit (1st edition)",  "Ronald Jager",  62.57
@@ -20,7 +20,7 @@ Lucy van Pelt's shopping cart:
 -------------------------
 Total amount due: $849.40
 
-Peppermint Patty's shopping cart:
+Peppermint Patty's shopping cart contains:
 "9789998379794",  "To Freedom and Beyond (1st edition)",  "Alabone",  19.74
 "9789998470804",  "Help or Hindrance? (1st edition)",  "Kevin Danaher",  96.71
 "9789999706124",  "Professor Bear's Mathematical World (1st edition)",  "James N. Boyd",  72.91
@@ -36,7 +36,7 @@ Peppermint Patty's shopping cart:
 -------------------------
 Total amount due: $808.61
 
-Schroeder's shopping cart:
+Schroeder's shopping cart contains:
 "9789999746892",  "Children and Television (Annals of the American Academy of Political and Social Science (Paper), Vol557) (1st edition)",  "Amy B. Jordan",  59.60
 "9799317207",  "Stabilization of upland agriculture under El Nino induced climatic risk (1st edition)",  "Ariffin Tawang.",  109.83
 "9810227639",  "Advances in robotics (1st edition)",  "ERNET. Research Workshop",  46.70
@@ -50,7 +50,7 @@ Schroeder's shopping cart:
 -------------------------
 Total amount due: $547.55
 
-The Red Baron's shopping cart:
+The Red Baron's shopping cart contains:
 54782169785 (131 Answer Key) is free of charge.
 "9789999513104",  "Impact of Computer Use on Children's Learning (1st edition)",  "Henry J. Becker",  22.71
 "9789999995641",  "Management Styles - Support Literature Video (1st edition)",  "T V Choice",  69.55
@@ -60,7 +60,7 @@ The Red Baron's shopping cart:
 -------------------------
 Total amount due: $151.00
 
-Woodstock's shopping cart:
+Woodstock's shopping cart contains:
 "9789998609976",  "Money, Wealth, and Prosperity (1st edition)",  "Lloyd Glauberman",  45.49
 "9789998830035",  "Organization Development (Spiral edition)",  "Mary F. Callan",  67.03
 "9789999141079",  "Simplified Folk Songs (1st edition)",  "Edu Activities Staff",  43.25
@@ -80,24 +80,31 @@ Woodstock's shopping cart:
 -------------------------
 Total amount due: $984.90
 
-nnn"9789999706124",  "Professor Bear's Mathematical World (1st edition)",  "James N. Boyd",  72.91
+"9789999706124",  "Professor Bear's Mathematical World (1st edition)",  "James N. Boyd",  72.91
 Quantity on hand: 14
 Quantity re-ordered: 20
+
 "9789999746892",  "Children and Television (Annals of the American Academy of Political and Social Science (Paper), Vol557) (1st edition)",  "Amy B. Jordan",  59.60
 Quantity on hand: 13
 Quantity re-ordered: 20
+
 "9798184242729",  "Logic at the crossroads (1st edition)",  "\"Indian Conference on Logic and its Relationship with Other Disciplines\" (1st 2005 IIT Bombay)",  75.84
 Quantity on hand: 6
 Quantity re-ordered: 20
+
 "9964953453",  "Island of No Return (1st edition)",  "G. Kwesi Annoh",  7.57
 Quantity on hand: 9
 Quantity re-ordered: 20
+
 "9976910584",  "Cooking with traditional leafy vegetables (1st edition)",  "Pendael Esther",  24.69
 Quantity on hand: 12
 Quantity re-ordered: 20
+
 "9988584865",  "Ghost names, shadow workers, and the public sector wage bill (1st edition)",  "Joe Amoako-Tuffour",  65.83
 Quantity on hand: 12
 Quantity re-ordered: 20
+
 "9991137319",  "Some grasses of the National University of Lesotho, Roma Campus (1st ed.)",  "Sumitra Talukdar",  14.00
 Quantity on hand: 8
 Quantity re-ordered: 20
+

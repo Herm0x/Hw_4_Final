@@ -74,7 +74,7 @@ Bookstore::BooksSold Bookstore::ringUpAllCustomers( const ShoppingCarts & shoppi
     ///  Hint:  merge each customer's purchased books into today's sales.  (https://en.cppreference.com/w/cpp/container/set/merge)
   for(const auto & [name, cart] : shoppingCarts)
   {
-    std::cout << name << "'s shopping cart:" << std::endl;
+    std::cout << name << "'s shopping cart contains:" << std::endl;
     todaysSales.merge(ringUpCustomer(cart));
   }
   /////////////////////// END-TO-DO (3) ////////////////////////////
@@ -198,6 +198,7 @@ void Bookstore::reorderItems( BooksSold & todaysSales )
       {
         std::cout << "Quantity on hand: " << search-> second << std::endl;
         std::cout << "Quantity re-ordered: " << LOT_COUNT << std::endl;
+        std::cout << std::endl;
         search-> second += LOT_COUNT;
       }
     }
