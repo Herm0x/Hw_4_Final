@@ -138,7 +138,7 @@ Bookstore::BooksSold Bookstore::ringUpCustomer( const ShoppingCart & shoppingCar
     }
   }
   std::cout << "-------------------------" << std::endl;
-  std::cout << "Total amount due: $" << amountDue << "\n" << std::endl;
+  std::cout << "Total  $" << amountDue << "\n" << std::endl;
   /////////////////////// END-TO-DO (4) ////////////////////////////
 
   return purchasedBooks;

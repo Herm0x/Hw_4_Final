@@ -1,7 +1,7 @@
 Charlie Brown's shopping cart contains:
 "9789998852051",  "From the Coal Mines and Ellis Island to the Asbestos Capital of the World (1st edition)",  "Purzycki",  42.68
 -------------------------
-Total amount due: $42.68
+Total  $42.68
 
 Lucy van Pelt's shopping cart contains:
 "9789999275842",  "Billboard Music Week (1st edition)",  "Joel Whitburn",  107.41
@@ -18,7 +18,7 @@ Lucy van Pelt's shopping cart contains:
 "9964781385",  "Violence (1st edition)",  "J. S. Pobee",  92.44
 "9966960619",  "How to build, use and maintain a better bonfire kiln (1st edition)",  "Moses Agumba",  80.15
 -------------------------
-Total amount due: $849.40
+Total  $849.40
 
 Peppermint Patty's shopping cart contains:
 "9789998379794",  "To Freedom and Beyond (1st edition)",  "Alabone",  19.74
@@ -34,7 +34,7 @@ Peppermint Patty's shopping cart contains:
 "998761776X",  "Assessment of health management information system in government owned health care facilities in Tanzania (1st edition)",  "Henry Mollel",  98.81
 "9990395128",  "Thorns & roses (2nd ed.)",  "Bhisma Dev Seebaluck",  52.22
 -------------------------
-Total amount due: $808.61
+Total  $808.61
 
 Schroeder's shopping cart contains:
 "9789999746892",  "Children and Television (Annals of the American Academy of Political and Social Science (Paper), Vol557) (1st edition)",  "Amy B. Jordan",  59.60
@@ -48,7 +48,7 @@ Schroeder's shopping cart contains:
 "9987617891",  "Factors that determine women's participation in science and technology related careers in Tanzania (1st edition)",  "Anne Mwakibete",  19.92
 "9999977219",  "The Sound of Her Laughter (1st edition)",  "Margaret Thornton",  66.22
 -------------------------
-Total amount due: $547.55
+Total  $547.55
 
 The Red Baron's shopping cart contains:
 54782169785 (131 Answer Key) is free of charge.
@@ -58,7 +58,7 @@ The Red Baron's shopping cart contains:
 "9991130306",  "Atlas of birds of Bloemfontein (1st edition)",  "Grzegorz Kopij",  35.44
 "9991137319",  "Some grasses of the National University of Lesotho, Roma Campus (1st ed.)",  "Sumitra Talukdar",  14.00
 -------------------------
-Total amount due: $151.00
+Total  $151.00
 
 Woodstock's shopping cart contains:
 "9789998609976",  "Money, Wealth, and Prosperity (1st edition)",  "Lloyd Glauberman",  45.49
@@ -78,7 +78,7 @@ Woodstock's shopping cart contains:
 "9983993279",  "Call me, me (1st edition)",  "Elizabeth Abraham",  107.31
 "9988584865",  "Ghost names, shadow workers, and the public sector wage bill (1st edition)",  "Joe Amoako-Tuffour",  65.83
 -------------------------
-Total amount due: $984.90
+Total  $984.90
 
 "9789999706124",  "Professor Bear's Mathematical World (1st edition)",  "James N. Boyd",  72.91
 Quantity on hand: 14
